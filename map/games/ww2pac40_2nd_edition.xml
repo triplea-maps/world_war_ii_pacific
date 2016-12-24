@@ -3178,9 +3178,6 @@
     <property name="Raids May Be Preceeded By Air Battles" value="true" editable="true">
       <boolean/>
     </property>
-    <property name="SBR Affects Unit Production" value="false" editable="false">
-      <boolean/>
-    </property>
     <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
       <boolean/>
     </property>
