@@ -1,7 +1,0 @@
-task zipMap(type: Zip) {
-    destinationDir new File("$projectDir")
-    archiveName "${projectDir.name}.zip"
-    from('map/') {
-        include '**'
-    }
-}
