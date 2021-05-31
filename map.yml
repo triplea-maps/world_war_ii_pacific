@@ -1,0 +1,5 @@
+map_name: world_war_ii_pacific
+games:
+- {game_name: WWII Pacific 1940 Original J1-Balanced, file_name: ww2pac40_balanced_veqryn.xml}
+- {game_name: World War II Pacific 1940 2nd Edition, file_name: ww2pac40_2nd_edition.xml}
+- {game_name: World War II Pacific 1940 Original, file_name: ww2pac40.xml}
